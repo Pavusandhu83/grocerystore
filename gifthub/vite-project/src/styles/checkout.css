@@ -1,0 +1,61 @@
+/* src/styles/checkout.css */
+
+.checkout-page {
+    font-family: Arial, sans-serif;
+  }
+  
+  .checkout-banner {
+    padding: 60px 0;
+    text-align: center;
+    background-size: cover;
+    color: white;
+  }
+  
+  .checkout-page .table {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .checkout-page .table th,
+  .checkout-page .table td {
+    text-align: center;
+  }
+  
+  .bill-breakdown {
+    margin-top: 20px;
+  }
+  
+  .bill-breakdown ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .bill-breakdown li {
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+  }
+  
+  .personal-details {
+    margin-top: 30px;
+  }
+  
+  .personal-details .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .personal-details .form-control {
+    padding: 10px;
+    font-size: 1rem;
+  }
+  
+  .payment-methods {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .payment-methods .payment-options button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  

@@ -1,0 +1,23 @@
+/* Add in your CSS file (e.g., App.css) */
+
+/* Banner Styling */
+.fruits-banner {
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+    background-color: black;
+  }
+  
+  .fruits-banner h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .fruits-banner p {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+ 
+  

@@ -1,0 +1,18 @@
+.card {
+    border: 2px solid #198754; /* Bootstrap success color */
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+  .category-banner img {
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    height: 160%;
+    width: 200%;
+    max-height :400px; 
+  }
+  

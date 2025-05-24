@@ -1,0 +1,65 @@
+body{
+   
+    font-weight: 50;
+    background-image: url('');
+    background-color: antiquewhite;
+}
+a{
+    text-decoration: none;
+}
+.categoryimg{
+    height: 250px;
+    width: 220px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 4;
+    top: 0;
+    
+}
+.background-image {
+    background-image: url('https://media.istockphoto.com/id/950167008/vector/shopping-carts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=Hjnw-Vhpevk2qN6USUa462d3GxQmaaqKq71I3aRSr9w=');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+body{
+    padding-top: 62px;
+}
+.brand{
+    border-radius: 50%;
+    border: none!important;
+    
+
+}
+.brandcard{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.cartcard{
+    height: 400px;
+    width: 250px;
+}
+.cartimg{
+    height: 140px;
+    width: 140px;
+   
+}
+.card.brand {
+    background-color: transparent !important;
+    border: none;
+    box-shadow: none;
+  }
+  
+  .brandcard {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    background: transparent;
+  }
+  
+  

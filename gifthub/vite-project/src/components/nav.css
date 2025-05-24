@@ -1,0 +1,28 @@
+/* Dark Mode */
+.dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+  
+  .dark-mode .navbar {
+    background-color: #333;
+  }
+  
+  .dark-mode .navbar-nav .nav-link {
+    color: white;
+  }
+  
+  /* Light Mode */
+  .light-mode {
+    background-color:bisque;
+    color: black;
+  }
+  
+  .light-mode .navbar {
+    background-color: #f8f9fa;
+  }
+  
+  .light-mode .navbar-nav .nav-link {
+    color: black;
+  }
+  
